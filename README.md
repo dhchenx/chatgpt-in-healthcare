@@ -132,3 +132,4 @@ ChatGPT can play an important role in the healthcare sector through its efficien
 
 [ChatGPT and Potential Healthcare Implications of Large Language Models](https://datascience.cancer.gov/news-events/events/chatgpt-and-potential-healthcare-implications-large-language-models)
 
+[AI and Healthcare: ChatGPT’s Role in Improving Medical Practices](https://formdr.com/blog/ai-and-healthcare-chatgpt-role/)

@@ -114,4 +114,21 @@ ChatGPT can play an important role in the healthcare sector through its efficien
 
 [Are AI Chatbots in Healthcare Ethical? — Their use must require informed consent and independent review](https://www.medpagetoday.com/opinion/second-opinions/102987)
 
+[ChatGPT Offers Potential for Health Outcomes, FDA’s Califf Says](https://news.bloomberglaw.com/pharma-and-life-sciences/chat-gpt-offers-potential-for-health-outcomes-fdas-califf-says)
+
+[How ChatGPT answered questions about heart disease prevention](https://www.beckershospitalreview.com/innovation/how-chatgpt-answered-questions-about-heart-disease-prevention.html)
+
+[Envisioning the Healthcare Landscape with ChatGPT](https://www.nymc.edu/news-and-events/news-archives/envisioning-the-healthcare-landscape-with-chatgpt.php)
+
+[OpenAI and ChatGPT: A Primer for Healthcare Leaders](https://blog.orbita.ai/openai_chatgpt_a_primer_for_healthcare_leaders)
+
+[University of Alberta's James Benoit uses ChatGPT to improve healthcare training](https://blogs.oracle.com/research/post/university-of-alberta-chatgpt-improve-healthcare-training)
+
+[Use Cases of ChatGPT in the Healthcare Industry](https://www.excellarate.com/blogs/chatgpt-in-healthcare/)
+
+[DocsGPT in beta targets physician burnout](https://www.healthcareitnews.com/news/docsgpt-beta-targets-physician-burnout)
+
+[ChatGPT Asks the Questions – Healthcare IT Today Podcast Episode 108](https://www.healthcareittoday.com/2023/02/20/chatgpt-asks-the-questions-healthcare-it-today-podcast-episode-108/)
+
+[ChatGPT and Potential Healthcare Implications of Large Language Models](https://datascience.cancer.gov/news-events/events/chatgpt-and-potential-healthcare-implications-large-language-models)
 

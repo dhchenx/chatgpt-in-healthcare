@@ -97,5 +97,21 @@ ChatGPT can play an important role in the healthcare sector through its efficien
 
 [Can the AI driving ChatGPT help to detect early signs of Alzheimer's disease?](https://www.sciencedaily.com/releases/2022/12/221222162415.htm)
 
+[What’s stopping ChatGPT from transforming health care?](https://www.medicaleconomics.com/view/what-s-stopping-chatgpt-from-transforming-health-care-)
+
+[New and surprising evidence that ChatGPT can perform several intricate tasks relevant to handling complex medical and clinical information](https://www.news-medical.net/news/20230213/New-and-surprising-evidence-that-ChatGPT-can-perform-several-intricate-tasks-relevant-to-handling-complex-medical-and-clinical-information.aspx)
+
+[Could ChatGPT Replace Doctors in Infection Consulting Scenarios?](https://neurosciencenews.com/chatgpt-ai-medicine-22537/)
+
+
+[Doximity rolls out beta version of ChatGPT tool for docs aiming to streamline administrative paperwork](https://www.fiercehealthcare.com/health-tech/doximity-rolls-out-beta-version-chatgpt-tool-docs-aiming-streamline-administrative)
+
+[CEO of ChatGPT developer: AI can give medical advice to 'people who can't afford care'](https://www.beckershospitalreview.com/digital-health/ceo-of-chatgpt-developer-ai-can-give-medical-advice-to-people-who-cant-afford-care.html)
+
+[Generative AI Won’t Revolutionize Search — Yet](https://hbr.org/2023/02/generative-ai-wont-revolutionize-search-yet)
+
+[AI's search revolution: How ChatGPT will be your new search engine](https://www.gzeromedia.com/gzero-world-clips/ai-search-revolution-how-chatgpt-will-be-your-new-search-engine)
+
+[Are AI Chatbots in Healthcare Ethical? — Their use must require informed consent and independent review](https://www.medpagetoday.com/opinion/second-opinions/102987)
 
 
